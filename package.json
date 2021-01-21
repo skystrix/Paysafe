@@ -1,0 +1,16 @@
+{
+  "name": "paysafe",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^15.6.2",
+    "react-dom": "^15.6.2",
+    "react-scripts": "1.0.13"
+  },
+  "scripts": {
+    "start": "react-paysafe start",
+    "build": "react-paysafe build",
+    "test": "react-paysafe test --env=jsdom",
+    "eject": "react-paysafe eject"
+  }
+}
